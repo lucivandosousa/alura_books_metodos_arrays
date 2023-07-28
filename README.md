@@ -5,7 +5,7 @@ Projeto desenvolvido para fins de estudos dos métodos de arrays em JavaScript.
 
 ## Stack utilizada
 
-**Front-end:** HTML e CSS
+**Front-end:** HTML, CSS e JavaScript
 
 
 ## Licença
