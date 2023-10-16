@@ -1,4 +1,4 @@
-# DevSteam
+# Métodos Arrays
 
 Projeto desenvolvido para fins de estudos dos métodos de arrays em JavaScript.
 
